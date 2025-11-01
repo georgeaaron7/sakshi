@@ -5,7 +5,6 @@
 #define N 8
 #define PI 3.14159265358979323846
 
-// Bit reversal function same as before
 void bit_reversal(complex double x[]) {
     int i, j, k;
     complex double temp;
